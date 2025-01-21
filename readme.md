@@ -1,3 +1,12 @@
+# About 
+Based on Three.js Journey
+Created to create a simple galaxy with 3js.
+
+## Links
+
+- [GitHub](https://github.com/Andriotis-Dimitris/Simple-Galaxy-Generator)
+- [Live](https://simple-galaxy-generator-andriotis-dimitris-projects.vercel.app)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
